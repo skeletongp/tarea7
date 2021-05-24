@@ -1,0 +1,16 @@
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Practica 7.exe.config
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Practica 7.exe
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Practica 7.pdb
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Guna.UI.dll
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\Guna.UI2.dll
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\UIDC.dll
+C:\Users\mosoy\source\repos\Practica 7\bin\Debug\XanderUI.dll
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.csprojAssemblyReference.cache
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica_7.AirManager.resources
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica_7.Properties.Resources.resources
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.csproj.GenerateResource.cache
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.csproj.CoreCompileInputs.cache
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.csproj.CopyComplete
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.exe
+C:\Users\mosoy\source\repos\Practica 7\obj\Debug\Practica 7.pdb
